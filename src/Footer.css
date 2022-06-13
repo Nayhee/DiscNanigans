@@ -1,0 +1,30 @@
+.footer {
+    height: 3vw;
+    padding: 1vw;
+    background-color: #7BD4FF;
+    width: 68%;
+    display: flex;
+    margin: auto;
+    border-right: 2px solid #F0F0F0;
+    border-left: 2px solid #F0F0F0;
+    
+    
+}
+.footer_logo {
+    width: 65%;
+}
+.footer_logo img {
+    width: 25%;
+    display: flex;
+}
+
+.footer_symbols {
+    margin-top: 1vw;
+}
+
+.footer_symbols i {
+    width: 35%;
+    color: black;
+    font-size: 1vw;
+    padding: 1vw;
+}
